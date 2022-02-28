@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some few queries and considerations proposed to the Cavaliers, being of weighty importance to them.</title>
+            <author>Penington, Isaac, 1616-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90396</idno>
+            <idno type="STC">Wing P1194</idno>
+            <idno type="STC">Thomason E1022_1</idno>
+            <idno type="STC">ESTC R203315</idno>
+            <idno type="EEBO-CITATION">99863298</idno>
+            <idno type="PROQUEST">99863298</idno>
+            <idno type="VID">168855</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168855)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1022[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some few queries and considerations proposed to the Cavaliers, being of weighty importance to them.</title>
+                  <author>Penington, Isaac, 1616-1679.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Isaac Penington, the younger.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 2 1660".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168855:1" rendition="simple:additions"/>
+            <head>Some few QUERIES AND CONSIDERATIONS Propoſed to the CAVALIERS, Being of weighty Importance to Them.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>May 2 1660</add>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <label>
+                  <hi>Query</hi> I.</label> VVHether all thoſe Sufferings, which have be<g ref="char:EOLhyphen"/>fallen that Party for theſe many years, were juſt as relating to God or no? that is, whe<g ref="char:EOLhyphen"/>ther they ſo ſinned againſt him, forgetting his Name and fear, dealing hardly with ſuch as truly deſired to fear him, (and who in his true fear did differ from their way of worſhip) exalting man in an hard and arbitrary Government both over the Conſciences of the upright-hearted towards God, and over the rights, liberties and perſons of the Nation, which with many other things, as the vanity and exceſs of the Court, the looſeneſs and prophaneſs of the Gentry, ſwearing, drinking of healths, and following the vain pomps and vanities of the world, (which by their very Baptiſm they ſtand engaged to de<g ref="char:EOLhyphen"/>ny) might fill up their Ephah, ſway down their ballance, and ſink their proſperity: I ſay, whether theſe and ſuch like things, might not juſtly provoke the Lord to turn his hand upon them,
+<pb n="2" facs="tcp:168855:2"/>
+to overturn their Church-Government, ſmite their King who was their ſtrength, and bring them under the feet of thoſe, whom before they had trampled upon and oppreſſed? Now though they may cry out againſt men, and in the day of their power fly out upon the rod wherewith the Lord chaſtiſed them, yet this is more proper and ſafe for them now, to conſider what hand the Lord had in all theſe things, and whether he was juſt therein or no.</p>
+            <p>
+               <label>
+                  <hi>Quer.</hi> II.</label> Whether in theſe their ſufferings they have hum<g ref="char:EOLhyphen"/>bled themſelves before the Lord, ſubmitting to his hand, mourn<g ref="char:EOLhyphen"/>ing over their ſins and tranſgreſſions againſt him, and have more deſired his gracious mercy and power, to pardon &amp; deliver them from their ſins, than to be freed of their ſufferings; ſo that if e<g ref="char:EOLhyphen"/>ver it ſhould pleaſe him to take his hand from off them, and bring them again into place and power, they might not ſo provoke him any more, either againſt themſelves or their King, but in true hu<g ref="char:EOLhyphen"/>mility and in his fear (and in love to his name, truths and peo<g ref="char:EOLhyphen"/>ple, and the people of this Nation) might walk righteouſly, meekly, and faithfully in the exerciſing of authority for the good and peace of all, and not for the hurt of any?</p>
+            <p>
+               <label>
+                  <hi>Quer.</hi> III.</label> Whether the cauſe (which they now may eaſily trample upon and deſpiſe) in thoſe people who were engaged a<g ref="char:EOLhyphen"/>gainſt them, was not juſt on their behalf alſo in its firſt riſe, and at the beginning of the controverſie; and whether their ſpirits might not be ſtirred up by God thereunto? wherein if they had continued faithful, going on ſingly in the work of the Lord, and not ſeeking themſelves, nor the hurt of any, but the juſt rights, liberties, and good of all according to their engagements, this overturn might never have befallen them. But they letting Gods Cauſe fall day after day, time after time, one opportunity after another, no marvel though the Lord hath ſuffered them to fall alſo: for it was not the intent of the Lord to ſet up their per<g ref="char:EOLhyphen"/>ſons (as was often teſtified to them while they ſtood) but to ſet up truth and righteouſneſs in theſe Nations, and to give his peo<g ref="char:EOLhyphen"/>ple full liberty of fearing and obeying him without fear of men. This the Lord began to effect by them, wherein their ſervice was very precious and acceptable to him, which if they had gone on faithfully in, they had never ſeen this day.</p>
+            <p>
+               <label>
+                  <hi>Quer.</hi> IV.</label> Whether they conſider the hand of the Lord in turning things thus about, or whether their eye be on inſtru<g ref="char:EOLhyphen"/>ments:
+<pb n="3" facs="tcp:168855:2"/>
+on ſuch as were againſt them on the one hand, and on ſuch as were for them on the other hand? for is it not very wonder<g ref="char:EOLhyphen"/>ful to conſider, how many plots and contrivances they have had one after another to bring this about (ſome whereof were very likely to take, and hard to be diſappointed) and yet all have ſtill failed: and now at length unlooked for, it hath as it were dropped into their mouths in ſuch a way, &amp; after ſuch a manner, and in ſo full a meaſure, as they could hardly have expected. O that they could eye the Lord herein, and fear before him, earneſt<g ref="char:EOLhyphen"/>ly deſiring and waiting for his grace to guide them, that at length one generation on whom he ſhews mercy, might ſhew them<g ref="char:EOLhyphen"/>ſelves worthy of his mercy, and not provoke him againſt them by abuſing it, &amp; ſo on a ſudden forfeit and hazard the loſs again, of what they have been ſo long deſiring and aiming at!</p>
+            <p>
+               <label>
+                  <hi>Quer.</hi> V.</label> Whether they conſider how eaſie it is for the Lord to turn things about again, in as unexpected a way to them, as this was to thoſe who are now overturned. Indeed they are ſetled as to the eye of man: what can withſtand them? what can riſe up againſt them? but alas what is the ſtrength of a Nation to the Lord? The whole Nation are men, and not God; and their whole ſtrength fleſh, and not Spirit: and if the Lord riſe up a<g ref="char:EOLhyphen"/>gainſt them, what are they before him? O that they could fear the Lord for his goodneſs, and that thoſe that are fallen under them might fear him for his ſeverity, and that we might all give over upbraiding and fighting againſt one another, and every man fight againſt the luſts of his own heart: againſt pride, paſſi<g ref="char:EOLhyphen"/>on, envy, covetouſneſs, heard-heartedneſs, oppreſſion of mens conſciences, doing to others what we would not receive from o<g ref="char:EOLhyphen"/>thers, <hi>&amp;c.</hi> for the hand of God is ſwift againſt the unrighteous Spirit, and he overturns apace. And if this preſent ſettlement do not pleaſe him, but if this generation after all their afflictions prove unworthy of this mercy, not letting fall what the hand of the Lord hath gone forth againſt, but thinking again to ſettle upon firmer foundations what God hath all this while been ſha<g ref="char:EOLhyphen"/>king, the Lord will laugh at their counſels and at all their ſtrength, and overturn them in a moment. This hath been it hath undone the foregoing Powers, they have been eyeing men, and ſtrengthening themſelves againſt men, and if they could but be ſtrong againſt the viſible powers, they thought they were
+<pb n="4" facs="tcp:168855:3"/>
+ſafe and ſecure enough, and ſo have overlooked the inviſible hand, which was the ſtrength that went forth againſt them. Therefore O <hi>Cavaliers</hi> conſider in this your day, how ſtrong are ye againſt the inviſible arme of the Lord? If ye are not able to deal therewith, fear before it, and make peace with it, leaſt it prove that the Lord hath raiſed you up to make his power known upon you, and to get himſelf a name by your overthrow. This is a warning of love to you, even from that which ſaw this your day before it came.</p>
+            <p>
+               <label>
+                  <hi>Quer.</hi> VI.</label> Whether an evill Spirit, a looſe Spirit, a Spirit which is out of the fear of God (and againſt them that fear God) hath not riſen up in the Nation, and been too much encouraged ſince your coming into power? The end of government is to bring men into, and encourage and preſerve them in the fear of God, which is the ſpring of all goodneſs, righteouſneſs and e<g ref="char:EOLhyphen"/>quity (not to bring men into a formal way of worſhip, that the Lord alwayes loathed; but to encourage in the true fear, which teacheth that worſhip of him in heart and Spirit which his ſoul e<g ref="char:EOLhyphen"/>ver loved.) Now conſider ſeriouſly, is not iniquity broke looſe? is not the chain as it were taking off from the wicked, and pre<g ref="char:EOLhyphen"/>paring to be laid on the righteous? What vanity, what exceſs, abuſe of the creatures, Swearing, Drinking, Scoffing, <hi>&amp;c.</hi> is al<g ref="char:EOLhyphen"/>ready broke forth? yea and how are thoſe that in truth of heart fear the Lord, and apply themſelves to meet in his fear to wor<g ref="char:EOLhyphen"/>ſhip him, already derided, diſturbed, and threatned, as if this ſhould not be lawful for them much longer? Alas, alas; If ye do not take heed, your ruin will be writ on the very entrance in<g ref="char:EOLhyphen"/>to your proſperity! O Nation of <hi>England,</hi> why do ye thus pro<g ref="char:EOLhyphen"/>voke the Lord againſt your ſelves, againſt your <hi>King,</hi> againſt your <hi>Parliament,</hi> againſt that part of the Nation who have been ſo long ſufferers? will ye throw away the Lords mercy as ſoon as it is beſtowed on you? will ye haſten to ſtir up his anger and jea<g ref="char:EOLhyphen"/>louſie againſt you? O how ſhort will your day be, if ye proceed after this manner! O remember God, and be troubled and deeply humbled for theſe things; and rejoyce with trembling, and do not ſhew vain expreſſions of joy out of his fear, but let your joy be in his fear, and then we alſo ſhall rejoyce with you, and hope that the wrath of the Lord may be diverted from this Nation, which theſe things help to kindle and increaſe.</p>
+            <p>
+               <pb n="5" facs="tcp:168855:3"/>
+               <hi>Quer.</hi> VII. Have ye conſidered, or do ye yet ſeriouſly apply your ſelves duly to conſider, what the Lords controverſie with this Nation and the powers thereof all this while hath been, and how it may be ended, that there may be no more ſtriving againſt him, neither by the powers nor people of the Nation? for what are men, that they ſhould contend with God? how can they proſper therein? had they never ſo great advantage of gain<g ref="char:EOLhyphen"/>ing or carrying a cauſe againſt him, yet how certainly would they fall before him! Now look back honeſtly, ſingly, faithfully, in the ſimplicity of your hearts, ſearch and conſider, what God hath contended with the powers of the Nation for, theſe many years: and if the Lord pleaſe (to ſuch as thus ſearch after it) to diſcover what it hath been for, let the Lord have his pleaſure; for aſſuredly he will not fail of recovering and advancing his cauſe, how much fallen ſoever it ſeemeth to men, &amp; how impoſſi<g ref="char:EOLhyphen"/>ble ſoever it ſeem to be recovered. Let me in the uprightneſs of my heart propoſe ſome few things to you.</p>
+            <p>Firſt, is not this a likely thing, that the Lord would have the reformation from Popery perfected? If the Proteſtants did well to leave Popery, then ſurely the more they leave it and come out of it, cannot but be acceptable to God: and the ſame Spirit which drew out of Popery, will be drawing out of all the relicks of it, and ſtill bringing into a purer and more inward and ſpiritual worſhip? Now conſider ſeriouſly of this matter, will ye give God leave to draw his people out of what ever is left of Popery in this Nation? Will ye forbear forcing of them to ſuch things as they verily believe in their hearts to be a denyal of Chriſt their Lord and Maſter? If ye ſuppoſe ſuch, or ſuch a Miniſtry and way of worſhip to be good, can ye not enjoy it your ſelves without forcing others (who cannot but from their hearts diſown it in the ſight of God) to ſubmit to it, and to help to maintain it? how can they do this thing, and ſin againſt the Lord? O do not ſtrive, like <hi>Jeroboam</hi> the Son of <hi>Nebat,</hi> to make Gods <hi>Iſrael</hi> to ſin! The Lord God conſiders the ſufferings of his people for his names-ſake. O <hi>England</hi> take heed of this thing, and do not hin<g ref="char:EOLhyphen"/>der any in reforming either their lives or their worſhips, but at length amend this thing, which hath been ſo long amiſs in the go<g ref="char:EOLhyphen"/>vernment of this Nation. The government of this Nation hath been gentle to the looſe Spirit, to the prophane Spirit; but hard
+<pb n="6" facs="tcp:168855:4"/>
+to the ſtrict Spirit, even to that which fears to offend the Lord, let it now at length, after thus much deſolation and diſtreſs, be<g ref="char:EOLhyphen"/>come gentle to that which fears the Lord, and more ſevere to that which is looſe and prophane. Surely he that governs under God, it becomes him to cheriſh that which is tender to God. And let the laws in this kind be conſidered of, and ſet ſtrait for the en<g ref="char:EOLhyphen"/>couragement of the good, and for the curbing of the unrighteous looſe and prophane ſpirit, that it may no longer thus ſwim on top, and abound in the Nation, but be brought under.</p>
+            <p n="2">2. Is not this alſo likely and a fitting thing, that the Lord God ſhould have the leading &amp; guidance of thoſe whom he beget by his ſpirit, and who are born thereof? Shall not the everlaſting father have the ordering and diſpoſe of his own children, to whom he gives his ſpirit to that very end, that they may be led by it, <hi>Rom.</hi> 8.14. <hi>The wind bloweth where it liſteth, and thou heareſt the ſound thereof, but canſt not tell whence it cometh, and whither it goeth: ſo is every one that is born of the ſpirit, John</hi> 3.8. Now he that is begotten and brought forth by a free breath of the ſpi<g ref="char:EOLhyphen"/>rit, ſhall not the ſame Spirit guide and lead him out of the world to the Father, out of the love of it, out of the cuſtomes, faſhion, worſhips, and whole courſe of it? <hi>They are not of the world</hi> ſaith Chriſt, <hi>even as I am not of the world, John</hi> 17.16 They walk not as men, or according to men, 1 <hi>Cor.</hi> 3.3. Indeed he that is Chriſts is crucified with him, the mans part is ſlain, and he can walk no more as a man, but as one redeemed out of the earthly nature and Spirit: therefore the world hates him, <hi>John</hi> 17.14. and is ready to cruſh and oppreſs him, <hi>Gal.</hi> 4.29. but this is not righteous before God, that his children and people ſhould be ha<g ref="char:EOLhyphen"/>ted, hunted and perſecuted, becauſe of their likeneſs to God by partaking of his image, and becauſe of their obedience to his Spi<g ref="char:EOLhyphen"/>rit, which draweth them out of all the unrighteouſneſs of the world, yea and out of its righteouſneſs too, that they may be found in the righteouſneſs, faith, and obedience of Gods Spirit in every thing.</p>
+            <p n="3">3. Is it not fitting that the Lord ſhould have and en<g ref="char:EOLhyphen"/>joy the worſhip of ſuch, as he teaches and ſeeks to worſhip him in Spirit and in truth? The worſhip in ſpirit and in truth is the Fathers worſhip, that is the worſhip which he hath appoin<g ref="char:EOLhyphen"/>ted and choſen, and which he teacheth his Children, and ſuch
+<pb n="7" facs="tcp:168855:4"/>
+worſhippers the Father ſeeks to worſhip him, <hi>John</hi> 4.23. men ſeek ſuch worſhippers, as will own their form and way of wor<g ref="char:EOLhyphen"/>ſhip: but God ſeeks ſuch as are born of his ſpirit, and are wil<g ref="char:EOLhyphen"/>ling to learn of him to worſhip him in Spirit and in truth. God is a ſpirit, and ſuch as worſhip him, muſt worſhip in his ſpirit, <hi>John</hi> 4.24. and ſuch as live to him, muſt live in his ſpirit &amp; ſuch as walk with him muſt walk in his ſpirit, <hi>Gal.</hi> 5.25. this is the true Goſpel religion, firſt to wait for the promiſe of the Spirit, and then to Worſhip and walk with God in the Spirit. Now will ye not ſuffer God to enjoy the worſhip of his own People, into whoſe ſpirits he breaths life, and whom he formes and be<g ref="char:EOLhyphen"/>gets into his own likeneſs? Conſider how provoking this muſt needs be to God, of what dangerous conſequence this hath been to the foregoing Powers, and how dangerous it may prove to you.</p>
+            <p n="4">4. Conſider whether it be in your hearts to bring us back to <hi>Egypt,</hi> and whether ye be able indeed ſo to do. It was an heavy yoak which we lay under by the government of <hi>Epiſ<g ref="char:EOLhyphen"/>copacy,</hi> and our ſpirits cryed and groaned to the Lord, and he did deliver us, and hath brought us from under it. Now a power is riſen up which hath not felt nor known the burthen of our ſpirits, nor been acquainted with our ſecret breathings &amp; mour<g ref="char:EOLhyphen"/>nings to the Lord; nor ſeen his mighty hand in what he hath done for us, and ſo ye may eaſily be tempted to attempt either to bring us back into our old bondage, or to fall upon us and cruſh us. But if this be your aim and intent, it will ſoon prove your ruin: for the Lord God who hath given you a day (and in whoſe hand your breath is, and before whom all your power is nothing) if he ſee you thus make uſe of it can ſoon put an end to it. What is all your viſible ſtrength before the inviſible arm and power? Therefore be not high minded becauſe ye are out<g ref="char:EOLhyphen"/>wardly ſo ſtrong and invincible, but fear before him who is ſtronger, whoſe eyes run to and fro through the earth to behold the carriage of things, that he may be ready to ſtretch forth his arm for the ſaving of his people, when there is none left to help them.</p>
+            <p n="5">5. Conſider ſeriouſly and pray earneſtly, that ye may know what God hath put this opportunity into your hands for; and do not ſeek the regaining of the earthly glory and greatneſs
+<pb n="8" facs="tcp:168855:5"/>
+(which we know to be falling, that the Lord alone may be exalt<g ref="char:EOLhyphen"/>ed, as the Scripture alſo hath teſtified, <hi>Iſa.</hi> 2.17.) but be ſober and moderate as to that, and ſeek the glory of the immortal God, who is to riſe in the Kingdomes of the earth over all (<hi>Rev.</hi> 11.15.) and ſeek righteouſneſs, meekneſs, the peace, good and wel<g ref="char:EOLhyphen"/>fare of all, neither doing nor ſuffering to be done to any ſort of perſons, what ye would not be willing to have done to you by them, if ye were in their caſe, ſtate and condition: and in any thing wherein ye have been injured in the time of your ſufferings and ſore viſitation by Gods hand, though ye may now blame, and ſeek to right your ſelves on the inſtruments which God plea<g ref="char:EOLhyphen"/>ſed to make uſe of to afflict you, yet it will be ſafer and better for you, if ye can forgive.</p>
+            <p>Theſe things belong to your peace, and by this means the Lord's favour may turn towards you, who cannot but diſlike your beginnings: but if in a fleſhly confidence becauſe of your outward ſtrength, ye ſhall ſet your ſelves againſt the work of the Lord, his cauſe and people, we can ſay to you in the dread of our God, <hi>Who art thou O great Mountain?</hi> We do not doubt but before the Fanner of <hi>Babel</hi> to ſee thee made a plain, and are prepared in our Spirits to ſtand ſtill to ſee the Salvation of our God, whoſe arm is not ſhortned that it cannot ſave, even when the enemies ſtrength, reſolution and advantage is greateſt.</p>
+            <p>
+               <hi>This is from one who hath mourned for the oppreſſed, and becauſe of the oppreſſions which have long abounded, praying to and waiting on the Lord for the good and proſperity of the Nation in general, and for the bring<g ref="char:EOLhyphen"/>ing forth of that righteouſneſs, fear of the Lord and true peace, which alone can make it happy.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Iſaac Penington,</hi> the Younger.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
